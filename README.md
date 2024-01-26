@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manasi Gade</h1>
-<h3 align="center">A passionate fronted developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasi-gade07&label=Profile%20views&color=0e75b6&style=flat" alt="manasi-gade07" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on *Html/css projects*
 
-- 💬 Ask me about *Html,c,java.*
+- 💬 Ask me about *Html,css.*
 
 - 📫 How to reach me *manasigade07@gmail.com*
 
