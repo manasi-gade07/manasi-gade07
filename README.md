@@ -19,8 +19,7 @@ I'm a Frontend Developer who builds clean, responsive, and user-friendly web app
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manasi-gade07&limit=5&theme=react&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=Manasi-gade07&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
