@@ -52,9 +52,15 @@ Technology is ever-evolving, and so is my curiosity. I actively explore the late
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
+<!-- GitHub Stats Card -->
+![](https://github-readme-stats.vercel.app/api?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
+
+<!-- GitHub Streak Stats -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manasi-gade07&theme=algolia&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- GitHub Top Languages Card -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
