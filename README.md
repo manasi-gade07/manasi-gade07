@@ -30,7 +30,7 @@ Technology is ever-evolving, and so is my curiosity. I actively explore the late
 | Project Row I                                  | Project Row II                                          |
 |------------------------------------------------|--------------------------------------------------------|
 | 🌐 [Weather App ](https://github.com/manasi-gade07/Weather_App.git) 🔗                    | 🌐 [Testimonial](#) 🔗                   |
-| 🌐 [Password_Generator](https://github.com/manasi-gade07/Password_Generator.git) 🔗                        | 🌐 [Product_Listing(#) 🔗             |
+| 🌐 [Password_Generator](https://github.com/manasi-gade07/Password_Generator.git) 🔗                        |  🌐 [Product](#) 🔗             |
 | 🌐 [QR_Generator](https://github.com/manasi-gade07/QR_Generator.git) 🔗          | 🌐 [Four_Card_Feature](#) 🔗                                  |
 | 🌐 [Parallex_Website](https://github.com/manasi-gade07/Parallex_website.git) 🔗                    | 🌐 [Bento Grid](#) 🔗                             |
 | 🌐 [Landing_Page_Website](https://github.com/manasi-gade07/Landing_Page_Website.git) 🔗         | 🌐 [FAQ_Section](#) 🔗                       |
