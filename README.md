@@ -4,7 +4,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasi-gade07&label=Profile%20views&color=0e75b6&style=flat" alt="manasi-gade07" /> </p>
 
 # 💫 About Me:
-I'm a Frontend Developer who builds clean, responsive, and user-friendly web apps using HTML, CSS, JavaScript, and React. Always eager to learn and stay up-to-date with the latest frontend trends.
+Hi, I'm **Manasi Gade**, a dedicated **Frontend Developer** with a passion for creating visually appealing, responsive, and user-friendly web applications. I specialize in turning ideas into functional and interactive digital experiences using a combination of modern tools and technologies. My journey in frontend development is driven by a deep love for design, coding, and innovation.
+
+### 🌟 What I Do:
+- I build **clean, maintainable, and efficient** codebases for web applications.  
+- My focus lies on **responsive design**, ensuring applications look great on any device.  
+- I enjoy integrating **user-centric designs** with robust functionality for seamless user experiences.  
+- Leveraging tools like **React, TailwindCSS, Bootstrap**, and more, I craft dynamic and visually engaging websites.  
+
+### 🚀 My Passion:
+Technology is ever-evolving, and so is my curiosity. I actively explore the latest frontend trends, frameworks, and design patterns to stay ahead. From enhancing UI/UX design to experimenting with **JavaScript animations**, my passion for learning fuels my creativity.
+
+### 🌱 My Current Goals:
+- Deepen my expertise in **React Ecosystem** and state management libraries like Redux.  
+- Master **API integration** and improve backend collaboration.  
+- Expand my knowledge of design tools like **Figma** to create intuitive wireframes.  
+- Build a stronger portfolio with **30+ personal projects** showcasing various frontend capabilities.
+
 
 
 ## 🌐 Socials:
@@ -17,18 +33,18 @@ I'm a Frontend Developer who builds clean, responsive, and user-friendly web app
 
 | Project Row I                                  | Project Row II                                          |
 |------------------------------------------------|--------------------------------------------------------|
-| 🌐 [MyCodingProfiles](#) 🔗                    | 🌐 [Shorting Algorithm Website](#) 🔗                   |
-| 🌐 [MYWebResume](#) 🔗                        | 🌐 [Animated My DSA Profiles Circle](#) 🔗             |
-| 🌐 [ADVANCED-BINARY-CALCULATOR](#) 🔗          | 🌐 [ChessBoard](#) 🔗                                  |
-| 🌐 [MY-AI-ASSISTANT](#) 🔗                    | 🌐 [My Resume Clone](#) 🔗                             |
-| 🌐 [Sorting-Algorithms-With-GUI](#) 🔗         | 🌐 [MyCertificatesGallery](#) 🔗                       |
-| 🌐 [Get-System-Information](#) 🔗              | 🌐 [My DSA Journey Website](#) 🔗                      |
-| 🌐 [Increment Decrement Calculator](#) 🔗      | 🌐 [Share Modal](#) 🔗                                 |
-| 🌐 [ToDo-List-GUI-Python](#) 🔗                | 🌐 [Tick-Tak-Toe Game](#) 🔗                           |
-| 🌐 [Portfolio](#) 🔗                          | 🌐 [Modern DSA Profile Sharing](#) 🔗                  |
-| 🌐 [Tick-Tack-Toe Game using Dev](#) 🔗        | 🌐 [RazorpayClone Website](#) 🔗                       |
-| 🌐 [Discord Clone](#) 🔗                      | 🌐 [DSAwithPrinceSingh](#) 🔗                          |
-| 🌐 [GitHub Profile Finder](#) 🔗               | 🌐 [Check Weather App](#) 🔗                           |
+| 🌐 [Weather App ](#) 🔗                    | 🌐 [Shorting Algorithm Website](#) 🔗                   |
+| 🌐 [Password_Generator](#) 🔗                        | 🌐 [Animated My DSA Profiles Circle](#) 🔗             |
+| 🌐 [QR_Generator](#) 🔗          | 🌐 [ChessBoard](#) 🔗                                  |
+| 🌐 [Parallex_Website](#) 🔗                    | 🌐 [My Resume Clone](#) 🔗                             |
+| 🌐 [Landing_Page_Website](#) 🔗         | 🌐 [MyCertificatesGallery](#) 🔗                       |
+| 🌐 [First_Website](#) 🔗              | 🌐 [My DSA Journey Website](#) 🔗                      |
+| 🌐 [Calculator](#) 🔗      | 🌐 [Share Modal](#) 🔗                                 |
+| 🌐 [Color_Generator](#) 🔗                | 🌐 [Tick-Tak-Toe Game](#) 🔗                           |
+| 🌐 [Form](#) 🔗                          | 🌐 [Modern DSA Profile Sharing](#) 🔗                  |
+| 🌐 [Countdown](#) 🔗        | 🌐 [RazorpayClone Website](#) 🔗                       |
+| 🌐 [Payment_Gateway](#) 🔗                      | 🌐 [DSAwithPrinceSingh](#) 🔗                          |
+| 🌐 [Groundwater_chatbot](#) 🔗               | 🌐 [Check Weather App](#) 🔗                           |
 | 🌐 [CORESubjectsWithME](#) 🔗                  | 🌐 [CPU SCHEDULING ALGORITHM VISUALIZER](#) 🔗          |
 | 🌐 [MeraCodeEditor](#) 🔗                     | 🌐 [Cardiac Care With Virtual Cardiologist (CCVC)](#) 🔗 |
 | 🌐 [75DaysHardPlacementChallenge](#) 🔗        | 🌐 [CloudConduction Payroll 💰](#) 🔗                   |
