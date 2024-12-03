@@ -33,21 +33,17 @@ Hi, I'm **Manasi Gade**, a **Frontend Developer** with a strong passion for crea
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=manasi-gade07&theme=algolia&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=manasi-gade07&theme=algolia&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
 ## 🌐Connect with me :
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/manasi-gade-3b0363259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manasi-gade-3b0363259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Manasi-Gade) 
 
 
 
