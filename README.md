@@ -29,9 +29,6 @@ Hi, I'm **Manasi Gade**, a **Frontend Developer** with a strong passion for crea
 | 🌐 [Grid](#) 🔗        | 🌐 [Ecommerce Website](#) 🔗                   |
 
 
-## 🌐Connect with me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manasi-gade-3b0363259)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=quora&logoColor=white)](https://www.quora.com/profile/Manasi-Gade)
 
 
 # 📊 GitHub Stats:
@@ -43,6 +40,16 @@ Hi, I'm **Manasi Gade**, a **Frontend Developer** with a strong passion for crea
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
+## 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+## 🌐Connect with me :
+<p align="left">
+<a href = "https://linkedin.com/in/manasi-gade-3b0363259" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.quora.com/profile/Manasi-Gade"><img src="https://img.icons8.com/fluent/48/000000/quora.png" alt="Quora Icon"/></a>
+</p>
 
 
 
