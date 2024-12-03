@@ -25,8 +25,8 @@ Hi, I'm **Manasi Gade**, a **Frontend Developer** with a strong passion for crea
 | 🌐 [Payment_Gateway](https://github.com/manasi-gade07/Payment_Gateway.git) 🔗                      | 🌐 [DSAwithPrinceSingh](#) 🔗                          |
 | 🌐 [Groundwater_chatbot](https://github.com/manasi-gade07/groundwater_chatbot.git) 🔗               | 🌐 [Time Tracking Dashboard](#) 🔗                           |
 | 🌐 [Aquavision](https://github.com/manasi-gade07/Aquavision.git) 🔗                  | 🌐 [Agency Landing Page](#) 🔗          |
-| 🌐 [QR_Scanner](#) 🔗                     | 🌐 [Loopstudios Landing Page](#) 🔗 |
-| 🌐 [Recipe_Page](#) 🔗        | 🌐 [Ecommerce Website](#) 🔗                   |
+| 🌐 [QR_Scanner](https://github.com/manasi-gade07/QR_Scanner_comp.git) 🔗                     | 🌐 [Loopstudios Landing Page](#) 🔗 |
+| 🌐 [Grid](#) 🔗        | 🌐 [Ecommerce Website](#) 🔗                   |
 
 
 ## 🌐Connect with me :
