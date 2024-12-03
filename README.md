@@ -44,7 +44,9 @@ Hi, I'm **Manasi Gade**, a **Frontend Developer** with a strong passion for crea
 ## 🌐Connect with me :
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manasi-gade-3b0363259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manasi-gade-3b0363259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/manasi-gade-3b0363259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
 </p>
 
 
