@@ -40,15 +40,11 @@ Hi, I'm **Manasi Gade**, a **Frontend Developer** with a strong passion for crea
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-## 📈 Graph
-<p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
 ## 🌐Connect with me :
+
 <p align="left">
-<a href = "https://linkedin.com/in/manasi-gade-3b0363259" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://www.quora.com/profile/Manasi-Gade"><img src="https://img.icons8.com/fluent/48/000000/quora.png" alt="Quora Icon"/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manasi-gade-3b0363259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manasi-gade-3b0363259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 </p>
 
 
