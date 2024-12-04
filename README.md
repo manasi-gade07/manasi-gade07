@@ -37,7 +37,7 @@ Hi, I'm **Manasi Gade**, a **Frontend Developer** with a strong passion for crea
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-# 🌐Connect with me :
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manasi-gade-3b0363259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Manasi-Gade) 
 
