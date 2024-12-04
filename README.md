@@ -32,10 +32,14 @@ Hi, I'm **Manasi Gade**, a **Frontend Developer** with a strong passion for crea
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=manasi-gade07&theme=algolia&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub Stats Card -->
+![](https://github-readme-stats.vercel.app/api?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
 
+<!-- GitHub Streak Stats -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=manasi-gade07&theme=algolia&hide_border=true)
+
+<!-- GitHub Top Languages Card -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manasi-gade-3b0363259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
