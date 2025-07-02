@@ -18,7 +18,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/manasi-gade-3b0363259" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - manasi-gade-3b0363259" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/manujune18" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - manujune18" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/manasi_gade" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - manasi_gade" height="30" width="40" /></a>
 </p>
 
 
