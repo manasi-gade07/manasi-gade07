@@ -68,19 +68,16 @@ and <b>user-centered UI/UX design</b>. Focused on building scalable, maintainabl
 
 ---
 
-## 📊 GitHub Stats (Reliable & Working)
+## 📊 GitHub Live Stats
 
 <p align="center">
-  <!-- 1. Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=manasi-gade07&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="450"/>
+  <img src="https://gitmystat.vercel.app/api/profile-overview?username=manasi-gade07" alt="GitHub Overview Stats" />
 </p>
 
 <p align="center">
-  <!-- 2. Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&layout=compact&theme=default" alt="Top Languages" width="450"/>
+  <img src="https://gitmystat.vercel.app/api/top-languages?username=manasi-gade07" alt="Top Languages Chart" />
 </p>
 
 <p align="center">
-  <!-- 3. Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi-gade07&theme=default" alt="GitHub Streak Stats" width="450"/>
+  <img src="https://gitmystat.vercel.app/api/contributions?username=manasi-gade07" alt="Contribution Streak & Activity" />
 </p>
