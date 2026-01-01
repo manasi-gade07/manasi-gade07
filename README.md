@@ -70,14 +70,11 @@ and <b>user-centered UI/UX design</b>. Focused on building scalable, maintainabl
 
 ## 📊 GitHub Live Stats
 
-<p align="center">
-  <img src="https://gitmystat.vercel.app/api/profile-overview?username=manasi-gade07" alt="GitHub Overview Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=manasi-gade07&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=manasi-gade07&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-gade07&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://gitmystat.vercel.app/api/top-languages?username=manasi-gade07" alt="Top Languages Chart" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=manasi-gade07&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <img src="https://gitmystat.vercel.app/api/contributions?username=manasi-gade07" alt="Contribution Streak & Activity" />
-</p>
+
