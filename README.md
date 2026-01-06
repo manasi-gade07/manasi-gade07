@@ -62,9 +62,8 @@ and <b>user-centered UI/UX design</b>. Focused on building scalable, maintainabl
 - 💻 GitHub: https://github.com/manasi-gade07  
 - 🧠 LeetCode: https://leetcode.com/u/manasigade07/  
 - 🏆 HackerRank: https://www.hackerrank.com/profile/manasi_gade07  
-- 🎨 Figma: https://www.figma.com/@4a0b5be3_cd8d_4  
+- 🎨 Figma: https://figma.com/@manasigade
 - 🚀 Unstop: https://unstop.com/u/manasgad3208  
-- 🔗 LinkedIn: https://linkedin.com/in/manasi-gade-3b0363259  
 - 📱 Behance: https://www.behance.net/manasigade1
 ---
 
