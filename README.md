@@ -65,7 +65,7 @@ and <b>user-centered UI/UX design</b>. Focused on building scalable, maintainabl
 - 🎨 Figma: https://www.figma.com/@4a0b5be3_cd8d_4  
 - 🚀 Unstop: https://unstop.com/u/manasgad3208  
 - 🔗 LinkedIn: https://linkedin.com/in/manasi-gade-3b0363259  
-
+- 📱 Behance: https://www.behance.net/manasigade1
 ---
 
 ## 📊 GitHub Live Stats
