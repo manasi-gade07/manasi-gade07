@@ -1,4 +1,4 @@
-0<h1 align="center">Hi 👋, I'm Manasi Gade</h1>
+<h1 align="center">Hi 👋, I'm Manasi Gade</h1>
 <h3 align="center">
 Software Engineer | Python + SQL | Building Scalable & Practical Applications
 </h3>
