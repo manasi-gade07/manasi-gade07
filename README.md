@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Manasi Gade</h1>
+0<h1 align="center">Hi 👋, I'm Manasi Gade</h1>
 <h3 align="center">
-Software Engineer | MERN Stack Developer | Problem Solver
+Software Engineer | Python + SQL | Building Scalable & Practical Applications
 </h3>
 
 <p align="center">
