@@ -8,10 +8,7 @@ Software Engineer | Python + SQL | Building Scalable & Practical Applications
 </p>
 
 <p align="center">
-Results-driven professional seeking <b>Software Engineer</b> and <b>technical internship</b> opportunities.
-Experienced in <b>Python, Java, SQL</b> and full-stack software development using the <b>MERN stack</b>.
-Strong foundation in <b>data analytics, AI fundamentals, modern AI tools, web technologies</b>,
-and <b>user-centered UI/UX design</b>. Focused on building scalable, maintainable, and impactful solutions.
+Software engineer passionate about building clean, efficient, and scalable applications. I love exploring new technologies, solving challenging problems, and sharing projects with the community
 </p>
 
 ---
